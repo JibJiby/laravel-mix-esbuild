@@ -5,7 +5,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/shaffe-fr/laravel-mix-esbuild.git"
+    "url": "https://github.com/JibJiby/laravel-mix-esbuild"
   },
   "author": "Jibjiby",
   "license": "MIT",
